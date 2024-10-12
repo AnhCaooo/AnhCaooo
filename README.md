@@ -3,7 +3,7 @@
 
 - 🔭 Currently, in my free time, I am building **my own electric application ⚡**
 
-- 🌱 I’m currently learning **techs world as I love to play and build software with them**
+- 🌱 I’m currently learning **techs as I love to play and build software with them**
 
 - 📫 How to reach me **anhcao4922@gmail.com**
 
