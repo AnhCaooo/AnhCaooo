@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Anh</h1>
-<h3 align="center">A passionate software engineer from Vietnam sat in Helsinki, Finland</h3>
+<h3 align="center">A passionate software engineer from Vietnam lives in Helsinki, Finland</h3>
 
 - 🔭 Currently, in my free time, I am building **my own electric application ⚡**
 
